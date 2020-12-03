@@ -1,7 +1,7 @@
 baseURL = "https://soraya97.github.io/VeilleTechno/"
 languageCode = "en-us"
 title = "Veille UX Design"
-theme = "dimension" 
+theme = "harbor" 
 [taxonomies]
   category = "categories"
   tag = "tags"

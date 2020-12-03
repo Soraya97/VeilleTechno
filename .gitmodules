@@ -1,3 +1,6 @@
 [submodule "themes/dimension"]
 	path = themes/dimension
 	url = https://github.com/your-identity/hugo-theme-dimension.git
+[submodule "themes/harbor"]
+	path = harbor
+	url = https://github.com/matsuyoshi30/harbor.git
