@@ -25,7 +25,7 @@ Bien que les enjeux soient les mêmes, il existe des différences majeures entre
 - Les prix sont souvent négociés.
 - Les besoins entre les entreprises sont différents.
 
-Pour mettre en place un bon UX pour les entreprises, il faut l'optimiser au maximum.
+Pour mettre en place un bon UX pour les entreprises, il faut l'optimiser.
 
 - Faciliter la comparaison entre les produits.
 - Inciter à l'achat grâce aux call-to-action.
