@@ -14,6 +14,8 @@ tags:
 
 # UX et B2B
 
+Test 1, 2, 1, 2
+
 [Lien de l'article](https://blog-ux.com/lavenir-de-lexperience-utilisateur-va-se-jouer-dans-le-btob/)
 
 Les entreprises doivent passer par l'UX pour innover et rester concurrentiel. Le marketing à l'ancienne est toujours bien implanté mais l'UX arrive gentiment à se faire une place. Il faut alors permettre à ses entreprises, grâce à l'UX, de se démarquer, d'intéresser et fidéliser ses clients, d'obtenir des recommandations de leur part et de gagner en productivité. 

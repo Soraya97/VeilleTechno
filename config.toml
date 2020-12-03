@@ -1,4 +1,7 @@
-baseURL = "http://example.org/"
+baseURL = "https://soraya97.github.io/LabVeilTec/"
 languageCode = "en-us"
-title = "My New Hugo Site"
-theme = "dimension"
+title = "Veille UX Design"
+theme = "dimension" 
+[taxonomies]
+  category = "categories"
+  tag = "tags"
