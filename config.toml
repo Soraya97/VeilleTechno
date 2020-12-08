@@ -28,7 +28,7 @@ theme = "harbor2"
   weight = 3
 
 [params.logo]
-  url = "logo_v2_250.png"
+  url = "logo.png"
   width = 50
   height = 50
   alt = "Logo"
