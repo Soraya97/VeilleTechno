@@ -1,5 +1,5 @@
 ---
-title: "UXBtoB"
+title: "UX et B2B"
 date: 2020-11-27T17:44:34+01:00
 draft: false
 categories:
@@ -11,8 +11,6 @@ tags:
 - Ergonomie
 - Conception
 ---
-
-# UX et B2B
 
 [Lien de l'article](https://blog-ux.com/lavenir-de-lexperience-utilisateur-va-se-jouer-dans-le-btob/)
 

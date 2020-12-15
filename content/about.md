@@ -28,15 +28,21 @@ Conception de produits média, game design, tests (Eye tracking, etc.), recherch
 
 #### Recherches
 
+La recherche, c'est le moment où on analyse ce qui doit être fait, comment et pour qui.
+
 Recherches, Test, Méthodes, Normes, Personas, Utilisateurs, Critères
-
-#### Maquettages
-
-Logiciels, Maquettes, UX, UI, Ergonomie, Design, Wireframe, Responsive, Template, Outils
 
 #### Conception
 
-Interface, Layout, Interactivité, Écrans, Conception
+La conception, c'est lorsque l'on met en place les éléments, comment les designer et pourquoi.
+
+Interface, Layout, Interactivité, Écrans, Conception, Ergonomie
+
+#### Maquettages
+
+Le maquettage, c'est le moment où l'on designe réellement, que l'on fait des maquettes, des wireframes.
+
+Logiciels, Maquettes, UX, UI, Design, Wireframe, Responsive, Template, Outils
 
 ### Pourquoi ?
 

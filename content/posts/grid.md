@@ -14,9 +14,9 @@ tags:
 - Conception
 ---
 
-# Trucs et astuces
-
 [Lien de l'article](https://uxdesign.cc/digging-deep-in-layout-grids-in-mobile-app-design-ef07ace5b291)
+
+![Image for post](https://miro.medium.com/max/2100/1*sBv_YjtE-lebopthC6UiMQ.gif)
 
 ## Le nombre optimal de colonnes
 
@@ -35,5 +35,24 @@ tags:
 
 ## Fixité et responsivité
 
-- Oui
+- Utiliser une grille flexible et étirer les colonnes en largeur.
+- Garder les mêmes marges, les mêmes gouttières et le même nombre de colonnes.
+
+## Précision de calcul
+
+Si la division de l'écran laisse un reste: 
+
+- Compenser en définissant des marges différentes.
+  - Il sera possible d'avoir le nombre de colonnes souhaités.
+  - Cela peut poser problèmes aux développeurs.
+- Garder la même valeur de marge et utiliser des tailles de colonnes fractionnaires.
+  - Avec la densité de pixels, cela ne se remarquera pas.
+  - Un éditeur graphique ne permet pas forcément la création d'une telle grille.
+
+## Modules
+
+- Un module séparé peut avoir sa propre grille.
+- Attention à la cohérence.
+
+
 

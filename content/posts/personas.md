@@ -1,5 +1,5 @@
 ---
-title: "Personas"
+title: "Le problèmes des personas"
 date: 2020-11-12T13:53:08+01:00
 draft: false
 categories:
@@ -11,8 +11,6 @@ tags:
 - Utilisateurs
 - Outils
 ---
-
-# Le problèmes des personas
 
 [Lien de l'article](https://uxmovement.com/thinking/the-big-problem-with-personas/)
 

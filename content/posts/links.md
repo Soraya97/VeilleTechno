@@ -1,75 +1,73 @@
 ---
-title: "Links"
+title: "Liens des ressources"
 date: 2020-11-10T15:32:09+01:00
 draft: false
 ---
 
-# Liens des ressources
+## Sites web à consulter
 
-## Sites web
+[Laws of UX](https://lawsofux.com/)
 
-Lois d'UX: https://lawsofux.com/
+[Nielsen Norman Group (Leaders mondiaux de l'expérience utilisateur basée sur la recherche)](https://www.nngroup.com)
 
-https://www.nngroup.com/
+[UX Myths](https://uxmyths.com/)
 
-https://medium.com/
+Blogs d'UX: [Blog de l'UX Designer](https://bloguxdesigner.fr/),  [UX Collective](https://uxdesign.cc/), [Blog UX](https://blog-ux.com/ux-design/), [UX Planet](https://uxplanet.org/), [UXBeginner](https://www.uxbeginner.com/blog/), [JustInMind](https://www.justinmind.com/blog/), [UX Studio](https://uxstudioteam.com/ux-blog/), [Medium](https://medium.com/), [UX Movement](https://uxmovement.com/)
 
-https://bloguxdesigner.fr/
-
-https://uxdesign.cc/
-
-https://uxmyths.com/
-
-https://blog-ux.com/ux-design/ 
-
-https://careerfoundry.com/en/blog/ux-design/ 
-
-https://uxplanet.org/
-
-https://www.uxbeginner.com/blog/
+[Exemples de design](https://www.uplabs.com/)
 
 ## Articles
 
-[UX and Psychology go hand in hand](https://uxdesign.cc/ux-psychology-go-hand-in-hand-how-gestalt-theory-appears-in-ux-design-18b727343da8)
+### Recherches
 
-[User intent affects filter design](https://www.nngroup.com/articles/applying-filters/)
+2020.10.23 | [How UX Designers Use Psychology to Manipulate Their Users](https://uxdesign.cc/how-ux-designers-use-psychology-to-manipulate-their-users-1508e91c0efb)	
 
-[Layout grids](https://uxdesign.cc/digging-deep-in-layout-grids-in-mobile-app-design-ef07ace5b291)
+2019.02.28 | [The big problem with personas](https://uxmovement.com/thinking/the-big-problem-with-personas/)
 
-[The big problem with personas](https://uxmovement.com/thinking/the-big-problem-with-personas/)
+2017.07.28 | [UX and Psychology go hand in hand](https://uxdesign.cc/ux-psychology-go-hand-in-hand-how-gestalt-theory-appears-in-ux-design-18b727343da8) 
 
-[Design interaction](https://bloguxdesigner.fr/donner-vie-a-vos-maquettes-grace-a-ces-deux-logiciels/)
+2019.08.12 | [L’avenir de l’expérience utilisateur va se jouer dans le BtoB](https://blog-ux.com/lavenir-de-lexperience-utilisateur-va-se-jouer-dans-le-btob/)		
 
-[Top 10 User Frustrations on Web](https://uxplanet.org/top-10-user-frustrations-on-web-17e522ea5274)
+### Conception
 
-[L’avenir de l’expérience utilisateur va se jouer dans le BtoB](https://blog-ux.com/lavenir-de-lexperience-utilisateur-va-se-jouer-dans-le-btob/)			
+2020.11.24 | [Top 10 User Frustrations on Web](https://uxplanet.org/top-10-user-frustrations-on-web-17e522ea5274)
 
-[Concevez vos projets en 5 jours avec le Design Sprint](https://blog-ux.com/concevez-vos-projets-en-5-jours-avec-le-design-sprint/)	
+2020.04.16 | [404 page design: best practices and awesome examples](https://www.justinmind.com/blog/best-404-pages/)
 
-[How UX Designers Use Psychology to Manipulate Their Users](https://uxdesign.cc/how-ux-designers-use-psychology-to-manipulate-their-users-1508e91c0efb)																									
-
-# Outils d'UX
-
-## Sites web
-
-### Présentations interactives
-
-https://www.mentimeter.com/
-
-### Tests UX
-
-https://www.optimalworkshop.com/
+2016.02.07 | [User intent affects filter design](https://www.nngroup.com/articles/applying-filters/)
 
 ### Maquettage
 
-https://www.flowmapp.com/
+2020.11.04 | [Color Contrast Mistakes to Avoid on Buttons](https://uxmovement.com/buttons/color-contrast-mistakes-to-avoid-on-buttons/)
 
-https://material.io/
+2020.04.14 | [Neumorphism: why it’s all the hype in UI design](https://www.justinmind.com/blog/neumorphism-ui/)
 
-## Logiciels
+2019.02.10 | [Design interaction](https://bloguxdesigner.fr/donner-vie-a-vos-maquettes-grace-a-ces-deux-logiciels/)
 
-https://www.adobe.com/ch_fr/products/xd/features.html#
+2019.10.09 | [Layout grids](https://uxdesign.cc/digging-deep-in-layout-grids-in-mobile-app-design-ef07ace5b291)																				
 
-https://www.sketch.com/
+## Outils d'UX
 
-https://www.figma.com/files/recent
+### Présentations interactives
+
+[Mentimeter](https://www.mentimeter.com/)
+
+### Tests UX
+
+[Optimal Workshop](https://www.optimalworkshop.com/)
+
+### Conception
+
+[Flowmapp](https://www.flowmapp.com/)
+
+[Material Design](https://material.io/)
+
+### Maquettage
+
+[Adobe XD](https://www.adobe.com/ch_fr/products/xd/features.html#)
+
+[Sketch](https://www.sketch.com/) > ! sur iOS
+
+[Figma](https://www.figma.com/)
+
+[InVision Studio](https://www.invisionapp.com/) > design d'interaction

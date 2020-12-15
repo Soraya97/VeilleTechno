@@ -1,9 +1,9 @@
 ---
-title: "Logiciel d'animation"
+title: "Donner vie à ses maquettes"
 date: 2020-12-03T11:19:01+01:00
 draft: false
 categories:
-- Conception
+- Maquettage
 tags:
 - Méthodes
 - Utilisateurs
@@ -17,8 +17,6 @@ tags:
 - Interactivité
 - Conception
 ---
-
-# Donner vie à ses maquettes
 
 [Lien de l'article](https://bloguxdesigner.fr/donner-vie-a-vos-maquettes-grace-a-ces-deux-logiciels/)
 
