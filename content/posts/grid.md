@@ -20,10 +20,13 @@ tags:
 
 ## Le nombre optimal de colonnes
 
-- Choix après le position des éléments de base.
-- La grille la plus pratique est sur 12 colonnes:
-  - Placement d'un nombre pair ou impair d'éléments facile.
-  - Largeur trop petite pour créer des éléments d'une colonne.
+Le choix du nombre de colonnes se fait après le positionnement des éléments de base. La grille la plus pratique est sur **12 colonnes**:
+
+- Placement d'un nombre pair ou impair d'éléments facile.
+- Toutefois, la largeur est trop petite pour créer des éléments d'une seule colonne.
+
+D'autres grilles sont envisageables:
+
 - Une grille sur 2, 4 ou 8 colonnes peut amener des problèmes de placement d'un nombre pair d'éléments.
 - Il est possible d'avoir plusieurs grilles, sans oublier la cohérence.
 
@@ -43,16 +46,11 @@ tags:
 Si la division de l'écran laisse un reste: 
 
 - Compenser en définissant des marges différentes.
-  - Il sera possible d'avoir le nombre de colonnes souhaités.
+  - Il sera possible d'avoir le nombre de colonnes souhaité.
   - Cela peut poser problèmes aux développeurs.
 - Garder la même valeur de marge et utiliser des tailles de colonnes fractionnaires.
   - Avec la densité de pixels, cela ne se remarquera pas.
   - Un éditeur graphique ne permet pas forcément la création d'une telle grille.
-
-## Modules
-
-- Un module séparé peut avoir sa propre grille.
-- Attention à la cohérence.
 
 
 
